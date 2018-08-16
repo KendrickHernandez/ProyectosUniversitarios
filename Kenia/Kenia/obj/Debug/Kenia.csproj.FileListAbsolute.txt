@@ -1,0 +1,6 @@
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\bin\Debug\Kenia.exe.config
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\bin\Debug\Kenia.exe
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\bin\Debug\Kenia.pdb
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\obj\Debug\Kenia.csprojResolveAssemblyReference.cache
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\obj\Debug\Kenia.exe
+c:\users\kenia\documents\visual studio 2015\Projects\Kenia\Kenia\obj\Debug\Kenia.pdb
